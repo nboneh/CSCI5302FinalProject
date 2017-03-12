@@ -1,0 +1,8 @@
+prefix=/home/odroid/catkin_ws/devel
+
+Name: car_package
+Description: Description of car_package
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/odroid/catkin_ws/devel/lib 
+Requires: 
