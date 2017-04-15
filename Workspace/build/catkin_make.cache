@@ -1,0 +1,2 @@
+libuvc_ros/libuvc_camera:libuvc_ros/libuvc_ros:phidgets_drivers/libphidget21:phidgets_drivers/phidgets_api:phidgets_drivers/phidgets_drivers:phidgets_drivers/phidgets_imu:ros_pololu_servo
+-DCATKIN_DEVEL_PREFIX=/home/sahana/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/sahana/catkin_ws/install -G Unix Makefiles

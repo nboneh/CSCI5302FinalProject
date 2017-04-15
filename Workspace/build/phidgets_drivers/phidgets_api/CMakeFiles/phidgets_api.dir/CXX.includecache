@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sahana/catkin_ws/src/phidgets_drivers/libphidget21/include/libphidget21/phidget21.h
+
+/home/sahana/catkin_ws/src/phidgets_drivers/phidgets_api/include/phidgets_api/imu.h
+phidgets_api/phidget.h
+/home/sahana/catkin_ws/src/phidgets_drivers/phidgets_api/include/phidgets_api/phidgets_api/phidget.h
+
+/home/sahana/catkin_ws/src/phidgets_drivers/phidgets_api/include/phidgets_api/ir.h
+phidgets_api/phidget.h
+/home/sahana/catkin_ws/src/phidgets_drivers/phidgets_api/include/phidgets_api/phidgets_api/phidget.h
+
+/home/sahana/catkin_ws/src/phidgets_drivers/phidgets_api/include/phidgets_api/phidget.h
+libphidget21/phidget21.h
+-
+iostream
+-
+algorithm
+-
+string
+-
+cstring
+-
+stdio.h
+-
+
+/home/sahana/catkin_ws/src/phidgets_drivers/phidgets_api/src/imu.cpp
+phidgets_api/imu.h
+/home/sahana/catkin_ws/src/phidgets_drivers/phidgets_api/src/phidgets_api/imu.h
+
+/home/sahana/catkin_ws/src/phidgets_drivers/phidgets_api/src/ir.cpp
+phidgets_api/ir.h
+/home/sahana/catkin_ws/src/phidgets_drivers/phidgets_api/src/phidgets_api/ir.h
+
+/home/sahana/catkin_ws/src/phidgets_drivers/phidgets_api/src/phidget.cpp
+phidgets_api/phidget.h
+/home/sahana/catkin_ws/src/phidgets_drivers/phidgets_api/src/phidgets_api/phidget.h
+
